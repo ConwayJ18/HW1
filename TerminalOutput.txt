@@ -1,0 +1,164 @@
+Jesss-MacBook-Air:HW1 JessConway$ javac Driver.java
+Jesss-MacBook-Air:HW1 JessConway$ java Driver
+The number of factors of the number 132283819222 is 6.
+That calculation took 9 milliseconds.
+The number of factors of the number 157010910944 is 94.
+That calculation took 8 milliseconds.
+The number of factors of the number 186481533828 is 10.
+That calculation took 8 milliseconds.
+The number of factors of the number 139246681011 is 14.
+That calculation took 3 milliseconds.
+The number of factors of the number 150510455390 is 14.
+That calculation took 3 milliseconds.
+The number of factors of the number 133939536114 is 62.
+That calculation took 3 milliseconds.
+The number of factors of the number 165403689691 is 2.
+That calculation took 4 milliseconds.
+The number of factors of the number 195121389988 is 22.
+That calculation took 4 milliseconds.
+The number of factors of the number 163126433020 is 46.
+That calculation took 5 milliseconds.
+The number of factors of the number 124642158382 is 22.
+That calculation took 4 milliseconds.
+The number of factors of the number 104034363646 is 14.
+That calculation took 3 milliseconds.
+The average time taken for a 12 digit number is 5.4 ms.
+The number of factors of the number 1853206668810 is 126.
+That calculation took 14 milliseconds.
+The number of factors of the number 1089809590211 is 6.
+That calculation took 10 milliseconds.
+The number of factors of the number 1878502907450 is 190.
+That calculation took 16 milliseconds.
+The number of factors of the number 1571852630411 is 6.
+That calculation took 12 milliseconds.
+The number of factors of the number 1136393079508 is 10.
+That calculation took 10 milliseconds.
+The number of factors of the number 1094820880680 is 190.
+That calculation took 14 milliseconds.
+The number of factors of the number 1162838879945 is 6.
+That calculation took 11 milliseconds.
+The number of factors of the number 1969390426686 is 62.
+That calculation took 14 milliseconds.
+The number of factors of the number 1099543264807 is 2.
+That calculation took 13 milliseconds.
+The number of factors of the number 1926052402719 is 14.
+That calculation took 20 milliseconds.
+The number of factors of the number 1380950869590 is 22.
+That calculation took 16 milliseconds.
+The average time taken for a 13 digit number is 15.0 ms.
+The number of factors of the number 12898421436328 is 6.
+That calculation took 50 milliseconds.
+The number of factors of the number 18153180218355 is 30.
+That calculation took 45 milliseconds.
+The number of factors of the number 19438976449231 is 6.
+That calculation took 48 milliseconds.
+The number of factors of the number 12394101875281 is 6.
+That calculation took 38 milliseconds.
+The number of factors of the number 11040203655033 is 14.
+That calculation took 36 milliseconds.
+The number of factors of the number 13383149888680 is 62.
+That calculation took 41 milliseconds.
+The number of factors of the number 17200860862622 is 2.
+That calculation took 43 milliseconds.
+The number of factors of the number 13643189279569 is 2.
+That calculation took 41 milliseconds.
+The number of factors of the number 19757053190636 is 22.
+That calculation took 47 milliseconds.
+The number of factors of the number 15346368122932 is 46.
+That calculation took 44 milliseconds.
+The number of factors of the number 15243762187224 is 158.
+That calculation took 43 milliseconds.
+The average time taken for a 14 digit number is 47.6 ms.
+The number of factors of the number 152548241096483 is 2.
+That calculation took 129 milliseconds.
+The number of factors of the number 156854705214589 is 14.
+That calculation took 130 milliseconds.
+The number of factors of the number 116362711767934 is 14.
+That calculation took 112 milliseconds.
+The number of factors of the number 183817353820319 is 62.
+That calculation took 140 milliseconds.
+The number of factors of the number 161593831700440 is 30.
+That calculation took 132 milliseconds.
+The number of factors of the number 177880922273705 is 158.
+That calculation took 141 milliseconds.
+The number of factors of the number 182777125764466 is 14.
+That calculation took 140 milliseconds.
+The number of factors of the number 152791659245043 is 78.
+That calculation took 129 milliseconds.
+The number of factors of the number 191348446416655 is 14.
+That calculation took 142 milliseconds.
+The number of factors of the number 139447359699419 is 0.
+That calculation took 123 milliseconds.
+The number of factors of the number 167336124434237 is 14.
+That calculation took 133 milliseconds.
+The average time taken for a 15 digit number is 145.1 ms.
+The number of factors of the number 1804238449689914 is 94.
+That calculation took 445 milliseconds.
+The number of factors of the number 1433073745802780 is 94.
+That calculation took 386 milliseconds.
+The number of factors of the number 1915012658354195 is 30.
+That calculation took 448 milliseconds.
+The number of factors of the number 1272374797001631 is 30.
+That calculation took 383 milliseconds.
+The number of factors of the number 1117324211871128 is 6.
+That calculation took 351 milliseconds.
+The number of factors of the number 1242420897563215 is 6.
+That calculation took 376 milliseconds.
+The number of factors of the number 1331177783177023 is 2.
+That calculation took 389 milliseconds.
+The number of factors of the number 1945120815127971 is 70.
+That calculation took 468 milliseconds.
+The number of factors of the number 1694550243413521 is 14.
+That calculation took 450 milliseconds.
+The number of factors of the number 1457892974737505 is 6.
+That calculation took 402 milliseconds.
+The number of factors of the number 1860438456220964 is 46.
+That calculation took 463 milliseconds.
+The average time taken for a 16 digit number is 456.1 ms.
+The number of factors of the number 18935546964006935 is 14.
+That calculation took 1458 milliseconds.
+The number of factors of the number 15134040735921315 is 254.
+That calculation took 1293 milliseconds.
+The number of factors of the number 12637313534347992 is 190.
+That calculation took 1244 milliseconds.
+The number of factors of the number 18612480497220996 is 10.
+That calculation took 1629 milliseconds.
+The number of factors of the number 19067687815787972 is 10.
+That calculation took 2048 milliseconds.
+The number of factors of the number 11208486321603705 is 62.
+That calculation took 1713 milliseconds.
+The number of factors of the number 17048800919020148 is 94.
+That calculation took 2149 milliseconds.
+The number of factors of the number 14080998539294934 is 62.
+That calculation took 1343 milliseconds.
+The number of factors of the number 10730143814250938 is 30.
+That calculation took 1184 milliseconds.
+The number of factors of the number 18597077175568173 is 6.
+That calculation took 2342 milliseconds.
+The number of factors of the number 11921718726202478 is 14.
+That calculation took 1687 milliseconds.
+The average time taken for a 17 digit number is 1809.0 ms.
+The number of factors of the number 129937678170239144 is 6.
+That calculation took 3921 milliseconds.
+The number of factors of the number 188671394700664800 is 142.
+That calculation took 5243 milliseconds.
+The number of factors of the number 174331472784262000 is 78.
+That calculation took 7238 milliseconds.
+The number of factors of the number 162834905798263984 is 8.
+That calculation took 5884 milliseconds.
+The number of factors of the number 159128701651448480 is 382.
+That calculation took 6468 milliseconds.
+The number of factors of the number 137427274955522192 is 38.
+That calculation took 5419 milliseconds.
+The number of factors of the number 143157960854706312 is 38.
+That calculation took 4146 milliseconds.
+The number of factors of the number 181437461581957104 is 238.
+That calculation took 6161 milliseconds.
+The number of factors of the number 110371666639800470 is 46.
+That calculation took 4510 milliseconds.
+The number of factors of the number 137910205371618624 is 222.
+That calculation took 4390 milliseconds.
+The number of factors of the number 150479421881390032 is 38.
+That calculation took 4158 milliseconds.
+The average time taken for a 18 digit number is 5753.8 ms.
+Jesss-MacBook-Air:HW1 JessConway$
