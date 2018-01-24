@@ -10,7 +10,3 @@ Every time this calculation returns zero, it increments the counter by 2.
 Because this algorithm takes order O(1) time to calculate the modulus,
 and runs this calculation sqrt(n) - 1 times, we can compute that the entire
 algorithm takes O(1*sqrt(n)) = O(sqrt(n)) time.
-
-The code can be found in Driver.java, with the average times for one run plotted
-in the images Graph1.png and Graph2.png. The output from one run of the code
-(the run used to generate the graphs) can be found in the file TerminalOutput.txt
